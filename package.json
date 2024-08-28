@@ -1,0 +1,21 @@
+{
+  "name": "santipro",
+  "version": "1.0.1",
+  "description": "App Use File Project",
+  "main": "appUse.js",
+  "scripts": {
+    "test": "appUse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Pablo Guzman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
